@@ -1,0 +1,1 @@
+Found right substring starting at index 6, ending at 11
